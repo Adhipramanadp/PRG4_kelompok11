@@ -424,3 +424,11 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Editor lain dan hasil g++ (teman pakai VS Code)
+.vscode/
+*.out
+*.o
+
+# Data uji
+Inventaries.txt
